@@ -1,6 +1,9 @@
 {
   "name": "node-starter",
   "version": "1.0.0",
+  "engines": {
+    "node": ">=12.0.0"
+  },
   "description": "Node Starter Repo for noobs",
   "private": true,
   "scripts": {
@@ -40,5 +43,8 @@
   "lint-staged": {
     "*.js": "eslint --cache --fix",
     "*.{js,css,md}": "prettier --write"
+  },
+  "dependencies": {
+    "eslint-plugin-node": "^11.1.0"
   }
 }
