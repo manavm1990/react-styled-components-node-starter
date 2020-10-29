@@ -4,14 +4,9 @@
 
 This template repository contains several opinionated, 'starter' files and settings to help students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes opinionated settings for:
-
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-
-Testing with [Jest](https://jestjs.io/docs/en/getting-started) is also included.
-
 There is a 'client' directory 📁 and a 'server' directory 📁. These represent the breadth of what it means to work as a 'full-stack' developer. Just think of these as 2 separate projects, for the time being.
+
+**See READMEs in each of those directories 👆🏽.**
 
 ## Get Started
 
