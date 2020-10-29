@@ -11,8 +11,9 @@ And then, a bunch of other 💩 happened:
 - [Kite 🪁](https://www.kite.com/javascript/) is also included. I personally recommend it, but it's certainly not compulsory to set this up.
 - Directories 📂 with 'index.js' files as a suggested architecture. See comments in those files for addl. info.
 - [React Router](https://reactrouter.com/web/guides/quick-start)
-- [Styled Components with Stylelint](https://github.com/styled-components/stylelint-processor-styled-components)
+- [Styled Components with Stylelint](https://github.com/styled-components/stylelint-processor-styled-components) I have also included the recommendations listed [here](https://styled-components.com/docs/basics)
 - [Framer Motion](https://www.framer.com/motion/)
+- [TypographyJS](https://kyleamathews.github.io/typography.js/) is included, but no theme. To add a Typography theme, check [this post](https://dev.to/codefinity/typography-in-a-cra-5aoa).
 - Probably some other stuff that I am currently 4getting about
 
 **Start all the things with `yarn`** - stick with 🧶 for best results with React
