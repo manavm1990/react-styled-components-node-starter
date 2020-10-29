@@ -1,6 +1,9 @@
 import React from "react";
+
 import styled from "styled-components";
+
 import logo from "./logo.svg";
+import GlobalStyle from "./GlobalStyle";
 
 const AppContainer = styled.div`
   text-align: center;
@@ -42,6 +45,8 @@ const AppContainer = styled.div`
 `;
 
 export default () => (
+    <GlobalStyle />
+
   <AppContainer>
     <header>
       <img src={logo} className="logo" alt="logo" />
