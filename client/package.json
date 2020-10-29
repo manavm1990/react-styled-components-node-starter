@@ -23,6 +23,8 @@
     "extends": [
       "react-app",
       "react-app/jest",
+      "airbnb",
+      "airbnb/hooks",
       "prettier",
       "prettier/@typescript-eslint",
       "prettier/react"
@@ -42,6 +44,7 @@
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.11.1",
+    "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.15.0",
     "prettier": "^2.1.2",
     "stylelint": "^13.7.2",
