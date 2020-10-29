@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-styled-components",
+    "stylelint-config-prettier"
+  ]
+  "plugins": ["stylelint-order"],
+  "processors": ["stylelint-processor-styled-components"],
+  "rules": {
+    "declaration-colon-newline-after": null,
+    "order/properties-alphabetical-order": true,
+    "value-list-comma-newline-after": null
+  }
+}
